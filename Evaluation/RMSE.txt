@@ -1,0 +1,1 @@
+RMSE of my prediction for the given testing data is 27.240159981
